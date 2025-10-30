@@ -23,7 +23,6 @@ A professional web design and development project built using **CodeIgniter 3**,
 * Easily customizable theme and structure.
 
 ---
-
 ## 🛠️ Technologies Used
 
 | Category            | Technologies                         |
