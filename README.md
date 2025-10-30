@@ -205,8 +205,8 @@ This project is licensed under the **MIT License** — see the `license.txt` fil
 
 ## 👤 Author
 
-**Devraj Bavan**
-💻 GitHub: [@devrajbavan](https://github.com/devrajbavan)
+**Devraj Bavan**<br>
+💻 GitHub: [@devrajbavan](https://github.com/devrajbavan)<br>
 🌐 Repository: [web-Designing-CI3](https://github.com/devrajbavan/web-Designing-CI3)
 
 ---
