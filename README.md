@@ -23,6 +23,7 @@ A professional web design and development project built using **CodeIgniter 3**,
 * Easily customizable theme and structure.
 
 ---
+
 ## 🛠️ Technologies Used
 
 | Category            | Technologies                         |
@@ -211,3 +212,4 @@ This project is licensed under the **MIT License** — see the `license.txt` fil
 ---
 
 ### ⭐ If you find this project useful, consider giving it a star on GitHub!
+
